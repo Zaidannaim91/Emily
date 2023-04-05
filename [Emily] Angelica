@@ -1,0 +1,25 @@
+{
+   "title":"[Emily] Angelica",
+   "description":"",
+   "author":"Emily",
+   "artist":"Emily",
+   "cover":"https://i.imgur.com/VbhWNc1.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/lykwZFo"
+         },
+         "last_updated":1624606143,
+         "title":"Angelica",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/ON7oiU2"
+         },
+         "last_updated":1624606143,
+         "title":"Staccato",
+         "volume":"2"
+      }
+   }
+}
