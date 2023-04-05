@@ -1,0 +1,25 @@
+{
+   "title":"[Emily] Sakura Drops",
+   "description":"",
+   "author":"Emily",
+   "artist":"Emily",
+   "cover":"https://i.imgur.com/Rk5ugQA.png",
+   "chapters":{
+      "1":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/2otcBTx"
+         },
+         "last_updated":1624606143,
+         "title":"Sakura Drops",
+         "volume":"1"
+      },
+      "2":{
+         "groups":{
+            "Imgur":"/proxy/api/imgur/chapter/lfl3bsO"
+         },
+         "last_updated":1624606143,
+         "title":"Sakura Drop Days",
+         "volume":"2"
+      }
+   }
+}
